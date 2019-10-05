@@ -1,0 +1,7 @@
+[project]
+	-I.
+	-DBLUE=4
+	-I../atkins
+	-DDADDY
+main.cpp
+not_main.cpp
